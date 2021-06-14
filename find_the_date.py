@@ -4,6 +4,8 @@
 # define period length
 # print separate periods
 
+#new comment for git
+
 
 
 import datetime
